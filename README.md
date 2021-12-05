@@ -1,2 +1,2 @@
 # CHEF-KAYAC
-Foro para estudiantes de gatronomia 
+Foro para estudiantes de gastronomia 
